@@ -1,0 +1,6 @@
+framework module Pods_AlgorithmKit_Tests {
+  umbrella header "Pods-AlgorithmKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

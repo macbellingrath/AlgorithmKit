@@ -1,0 +1,22 @@
+{
+  "name": "AlgorithmKit",
+  "version": "0.1.0",
+  "summary": "A short description of AlgorithmKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mac Bellingrath/AlgorithmKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mac Bellingrath": "macbellingrath@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mac Bellingrath/AlgorithmKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AlgorithmKit/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module AlgorithmKit {
+  umbrella header "AlgorithmKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

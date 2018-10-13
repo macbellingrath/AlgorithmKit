@@ -1,0 +1,16 @@
+PODS:
+  - AlgorithmKit (0.1.0)
+
+DEPENDENCIES:
+  - AlgorithmKit (from `../`)
+
+EXTERNAL SOURCES:
+  AlgorithmKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlgorithmKit: c4dc9b8727ebdff7ebd0389be5e8dae04ef3012f
+
+PODFILE CHECKSUM: 042476fd1b167bc156c476f95a8bb04620983af5
+
+COCOAPODS: 1.5.3
