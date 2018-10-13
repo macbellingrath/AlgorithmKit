@@ -23,7 +23,7 @@ pod 'AlgorithmKit'
 
 ## Author
 
-Mac Bellingrath, macbellingrath@gmail.com
+Mac Bellingrath
 
 ## License
 
