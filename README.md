@@ -1,4 +1,5 @@
 # AlgorithmKit
+A framework for writing algorithms in Swift
 
 [![CI Status](https://img.shields.io/travis/Mac Bellingrath/AlgorithmKit.svg?style=flat)](https://travis-ci.org/Mac Bellingrath/AlgorithmKit)
 [![Version](https://img.shields.io/cocoapods/v/AlgorithmKit.svg?style=flat)](https://cocoapods.org/pods/AlgorithmKit)
