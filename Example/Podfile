@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlgorithmKit_Tests' do
+  pod 'AlgorithmKit', :path => '../'
+  
+  
+end
